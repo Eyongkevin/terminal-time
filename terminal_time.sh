@@ -1,2 +1,3 @@
-echo `date`
-echo Welcome `whoami` $(hostname)
+
+modiyfy-welcome
+echo Welcome `whoami` to $(hostname)
